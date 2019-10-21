@@ -1,5 +1,7 @@
+<!DOCTYPE html>
 <html>
   <head>
+     <meta charset="UTF-8">
      <title>Gestion des tâches et évéments</title>
    <body>
       <?php
