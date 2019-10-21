@@ -2,5 +2,5 @@ Tâche 1: Définitions des étapes à suivre.
 Tâche 2: Initiation
 Tâche 3: Planification
 Tâche 4: Execution(Définition des modules,Design)
-Tâche 5: 
-Tâche 6: 
+Tâche 5:Intégration(Test, Release produit)
+Tâche 6: Clôture(Formation des admin/users)
